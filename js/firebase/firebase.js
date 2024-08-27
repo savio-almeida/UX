@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyATDCR7MJad7A_ZJcau_ayn4ug9gRbBuX0",
+  apiKey: "",
   authDomain: "novoweb-bc1bc.firebaseapp.com",
   projectId: "novoweb-bc1bc",
   storageBucket: "novoweb-bc1bc.appspot.com",
